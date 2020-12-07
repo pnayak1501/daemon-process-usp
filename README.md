@@ -1,5 +1,8 @@
 # daemon-process-usp
 
+![](ss/1.png)
+![](ss/1.png)
+
 # ABSTRACT:
 A daemon process is a process which runs in background and has no controlling terminal. Since, a daemon process usually has no controlling terminal so almost no user interaction is required. Daemon processes are used to provide services that can well be done in background without any user interaction.
 For example, a process that runs in background and observes network activity and logs any suspicious communication can be developed as a daemon process.
